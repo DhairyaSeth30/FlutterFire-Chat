@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091000878817",
+    "project_id": "flutterfire-chat-d327f",
+    "storage_bucket": "flutterfire-chat-d327f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091000878817:android:a4cc90d579781f12ab99a0",
+        "android_client_info": {
+          "package_name": "com.dhairyaseth.flutterfire_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6EV04iQIRQZGUpuqwrzOcaw1IzHMyPFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
